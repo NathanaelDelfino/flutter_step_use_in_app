@@ -1,16 +1,11 @@
 # flutter_step_use_in_app
 
-A new Flutter project.
 
-## Getting Started
+Utilizando steps in Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/7662248/194622031-2a226b5d-97fd-4a97-b794-78596894aa5e.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/7662248/194622142-bad15d8a-0d57-4e0d-9932-42d620585448.png)
+
